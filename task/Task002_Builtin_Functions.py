@@ -1,4 +1,4 @@
-# List of all built in functions :
+# List of all built_in functions :
 abs()
 aiter()
 all()
