@@ -36,6 +36,7 @@ response_code = 0
 
 while attempt <= max_attempts:
     # Simulate an API call using a random response (replace this with real API code)
+    # response_code = int(input("Enter the response code: "))
     response_code = random.choice([200, 500, 404, 503])
 
     print(f"Attempt {attempt}: Response {response_code}")
